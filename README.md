@@ -1,6 +1,6 @@
 # Crisis Detection on Reddit - GSoC 2025 Submission
 
-This project includes three tasks focusing on identifying and analyzing crisis-related posts from Reddit. The tasks are implemented using Python and various NLP and data visualization libraries. All scripts are designed to run locally.
+This project includes three tasks focusing on identifying and analyzing crisis-related posts from Reddit. The tasks are implemented using Python and various NLP and data visualization libraries.
 
 ---
 
@@ -71,7 +71,16 @@ project-folder/
 
 ---
 
-## 🛠️ How to Run
+## 🧬 Clone This Project from GitHub
+
+If you'd like to explore or run this project yourself, follow the steps below:
+
+### 0. 📥 Clone the Repository
+
+```bash
+git clone https://github.com/SparkFan626/Crisis_Detection_YixingFan.git
+cd Crisis_Detection_YixingFan
+```
 
 ### 1. 🐍 Python Environment
 
